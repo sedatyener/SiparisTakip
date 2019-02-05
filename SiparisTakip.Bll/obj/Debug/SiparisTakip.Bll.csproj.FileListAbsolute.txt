@@ -1,0 +1,16 @@
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Bll.dll
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Bll.pdb
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Bll\obj\Debug\SiparisTakip.Bll.csprojResolveAssemblyReference.cache
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Bll\obj\Debug\SiparisTakip.Bll.csproj.CoreCompileInputs.cache
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Bll\obj\Debug\SiparisTakip.Bll.dll
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Bll\obj\Debug\SiparisTakip.Bll.pdb
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Dal.dll
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Entity.dll
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Interfaces.dll
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Bll\bin\Debug\EntityFramework.dll
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Dal.pdb
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Dal.dll.config
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Entity.pdb
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Entity.dll.config
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Bll\bin\Debug\SiparisTakip.Interfaces.pdb
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Bll\bin\Debug\EntityFramework.xml

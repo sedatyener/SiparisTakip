@@ -1,0 +1,11 @@
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Entity\bin\Debug\SiparisTakip.Entity.dll.config
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Entity\bin\Debug\SiparisTakip.Entity.dll
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Entity\bin\Debug\SiparisTakip.Entity.pdb
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Entity\bin\Debug\EntityFramework.dll
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Entity\bin\Debug\EntityFramework.xml
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Entity\obj\Debug\SiparisTakip.Entity.csprojResolveAssemblyReference.cache
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Entity\obj\Debug\SiparisTakip.Entity.csproj.CoreCompileInputs.cache
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Entity\obj\Debug\SiparisTakip.Entity.dll
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Entity\obj\Debug\SiparisTakip.Entity.pdb

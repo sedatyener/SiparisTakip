@@ -1,0 +1,6 @@
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Cache\bin\Debug\SiparisTakip.Cache.dll
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Cache\bin\Debug\SiparisTakip.Cache.pdb
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Cache\obj\Debug\SiparisTakip.Cache.csproj.CoreCompileInputs.cache
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Cache\obj\Debug\SiparisTakip.Cache.dll
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Cache\obj\Debug\SiparisTakip.Cache.pdb
+D:\Elginkan\Asp.NET MVC\Hafta4\SiparisTakip\SiparisTakip.Cache\obj\Debug\SiparisTakip.Cache.csprojResolveAssemblyReference.cache
